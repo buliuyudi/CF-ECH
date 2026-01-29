@@ -1,6 +1,6 @@
 import { connect } from 'cloudflare:sockets';
 
-let at = 'eb262793-1d12-4501-9282-d24b85c0f574';//UUID
+let at = '15e7ec44-0f56-4a3a-9221-1068b24cdcfb';//UUID
 let fallbackAddress = '';//备用地址
 let socks5Config = '';//socks5配置
 let customPreferredIPs = [];//自定义优选IP列表
